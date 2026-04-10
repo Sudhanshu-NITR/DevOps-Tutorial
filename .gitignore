@@ -1,1 +1,7 @@
 /demo-pair.pem
+
+.terraform/
+terraform.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
+*.tfvars
